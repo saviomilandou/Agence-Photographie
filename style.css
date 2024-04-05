@@ -1,0 +1,71 @@
+
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: blue !important;
+}
+
+/* Ajout de l'effet de survol pour les liens de la navbar */
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #0099ff !important; /* Changez la couleur au survol ici */
+    text-decoration: underline; /* Optionnel: ajoute un soulignement au survol */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-image: url('Images/banner_background.jpg'); /* Insérez le chemin vers votre image */
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Hauteur de la bannière */
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    background-image: url('Images/banner_background.jpg'); /* Insérez le chemin vers votre image */
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Hauteur de la bannière */
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner h1 {
+    font-size: 3em;
+    margin: 0;
+}
+.container {
+    padding: 20px;
+}
+
+
